@@ -11,4 +11,4 @@ Saiba seu destino !!
 - Projeto inspirado na Maratona Explorer.
 - Utilizado Visual Studio Code.
 - Responsividade em construção.
-- Link para teste : 
+- Link para teste : https://thainaracamargo.github.io/RevDestiny/
